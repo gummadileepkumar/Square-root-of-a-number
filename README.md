@@ -50,6 +50,19 @@ print("Square root of the number:",nm(a))
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## Output:
 ![Square root of a number](/square_output.png)
 
